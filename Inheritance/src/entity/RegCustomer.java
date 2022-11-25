@@ -1,0 +1,24 @@
+package entity;
+
+public class RegCustomer extends Customer {
+	
+	
+	int reg_no;
+	
+	public RegCustomer(String string, String string2) {
+		// TODO Auto-generated constructor stub
+		super(string,string2);
+	}
+
+	public RegCustomer(String email, String address, int reg_no2) {
+		// TODO Auto-generated constructor stub
+		super(email,address);
+		reg_no=reg_no2;
+	}
+
+	public float giveDiscount(int sp) {
+		return (sp-(((float)sp*5)/100));
+	}
+	
+
+}

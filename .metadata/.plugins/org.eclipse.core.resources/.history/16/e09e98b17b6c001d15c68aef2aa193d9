@@ -1,0 +1,11 @@
+package assignment1_3and4;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		File f= new File("D:\\0106_0036\\javaProgramming\\abc.txt");
+	}
+
+}

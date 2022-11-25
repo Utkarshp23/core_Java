@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Inheritance/src&lt;entity{Customer.java[Customer" modifiers="1" timestamp="1664438166537"/>
+    <typeInfo handle="=Inheritance/src&lt;entity{Point.java[Point" modifiers="1" timestamp="1664444775871"/>
+    <typeInfo handle="=Inheritance/src&lt;entity{Person.java[Person" modifiers="1" timestamp="1664446256640"/>
+    <typeInfo handle="=interfaces_/src&lt;entity{Comparer.java[Comparer" modifiers="513" timestamp="1665414277299"/>
+    <typeInfo handle="=ExceptionHandling/D:\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1664426038187"/>
+    <typeInfo handle="=ExceptionHandling/src&lt;entity.serialization.student{Person.java[Person" modifiers="1" timestamp="1665503899125"/>
+    <typeInfo handle="=Multithreading/D:\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1664426038187"/>
+</typeInfoHistroy>
